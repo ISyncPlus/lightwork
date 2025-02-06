@@ -1,0 +1,85 @@
+* {
+    margin:0;
+    font-family: arial, sans-serif;
+}
+body {
+    font-family: arial;
+    font-size: 13px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    line-height: 1.5;
+}
+
+article {
+    width: 90%;
+}
+
+.address {
+    width: 50%;
+    word-wrap:break-word;
+}
+
+
+.main {
+    border: 2px solid #000;
+    padding: 50px;
+    margin: 5px;
+    width: 50%;
+}
+
+.line {
+    height: 1.1px;
+    background-color: #000;
+    width: 80%;
+    margin-right:0;
+    margin-left:0;
+    margin-bottom: 10px;
+}
+
+.cTitle {
+    color: rgb(35, 194, 35);
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.separate {
+    color: rgb(31, 104, 200);
+    font-size: 14.5px;
+}
+.random {
+    text-decoration: underline;
+    margin-left: 3%;
+}
+
+a:visited {
+    color: inherit;
+}
+
+.fa-linkedin {
+    font-size: 25px;
+    color: #0077b5;
+}
+
+.fa-github {
+    margin-left: 12px;
+    font-size: 25px;
+}
+
+.fa-x-twitter {
+    margin-left: 12px;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
